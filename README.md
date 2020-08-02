@@ -1,0 +1,2 @@
+# testrepo
+próba a tanuláshoz
